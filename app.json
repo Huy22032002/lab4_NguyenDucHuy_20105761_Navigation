@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "10layout_lab3-1",
     "slug": "snack-a221e1f6-83ce-4290-b926-9adc1bf24e5f",
+=======
+    "name": "lab5",
+    "slug": "snack-89fc0da8-3c54-473d-9e32-57dca60e8811",
+>>>>>>> 4e02854965b4bb859ffd1219ad85698e7c69bab8
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
